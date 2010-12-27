@@ -1,0 +1,70 @@
+Erhan Kesken'e ait "Nogri'nin Hikayesi"  adlı eser "Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 Unported" lisansıyla korunmaktadır.
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Hikayenin Hikayesi:
+===================
+Hikayenin ana esin kaynağı bir dönem TRT'de "Bir Varmış Bir Yokmuş (İnsan
+Vücudu)"[1] adıyla gösterilen "Il était une fois la vie"[2] adlı çizgi filmdir.
+
+İnsan vücudunun galaksiyle özdeşleştirilmesi konusunda Asimov'un vakıf ve robot
+hikayelerinden esinlenilmiştir.
+
+Oluşturulacak olan özgün senaryo bir animasyon film yaratmak için
+kullanılacaktır. Bu çalışma sırasında üretilen her katma değer özgür
+lisanslarla korunacaktır, bu konuda da "Big Bug Bunny"[3] filmi için yürütülen
+çalışmalar örnek alınmıştır.
+
+Hikayede her bölüm farklı bir karakterin gözünden anlatılmaktadır. Bu şekilde
+bölümlerin senaryosunun farklı insanlar tarafından farklı üsluplarla kaleme
+alınabilmesinin yolu açılmıştır.
+
+Ana Karakterler:
+================
+nogri: kök hücre
+azze: alyuvar ebeveyn
+akel: akyuvar asker
+
+Genel Gerçekler:
+================
+hücre: insan
+hormon: robot
+enzim: ilaç - sihir
+organ: yaşayan gezegen - toplum
+vücut: galaksi
+insanların dünyası: uzay
+1 hücre günü ~= 24 insan saniyesi (kanın vücuttaki dolaşımını tamamlama süresi)
+
+KİTAP 1:
+========
+
+İlk kitapta kanser bir babanın yeni doğan çocuğunun göbek bağından alınan kök
+hücrelerle tedavi edilişinin hikayesi anlatılacaktır.
+
+Bölüm 1: Arayış
+===============
+
+Azze'nin Nogri'yi bulma mücadelesi
+
+Kullanılan gerçekler:
+---------------------
+Her saniye 2.4 milyon yeni alyuvar üretilir, bir alyuvar hücresinin ömrü
+100-120 gündür, yaşlı ve işlevini yitirmiş alyuvarlar makrofaglar tarafınan
+geri dönüştürülürler, makrofaglar akyuvarların başkalaşım geçirmiş halidir. Bir
+alyuvar dolaşım sistemindeki döngüsünü 20 saniyede tamamlar. Alyuvarlar kök
+hücrelerin başkalaşmasıyla oluşur. "eritropoiez" adı verilen bu evre 7 gün
+sürer. [4]
+
+Göbek kordonundan kök hücre alımı doğum sonrasından gerçekleşir.[5]
+
+Sezaryan sırasında genel veya bölgesel anestezi uygulanır. [6]
+
+Kaynaklar:
+----------
+[1] http://www.youtube.com/watch?v=pvqjIbgUWnU
+[2] http://www.youtube.com/watch?v=fxdUEvuYE4E
+[3] http://www.bigbuckbunny.org/
+[4] http://en.wikipedia.org/wiki/Red_blood_cell
+[5] http://en.wikipedia.org/wiki/Hematopoietic_stem_cell_transplantation
+[6] http://en.wikipedia.org/wiki/Caesarean_section
