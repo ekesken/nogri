@@ -34,7 +34,9 @@ enzim: ilaç - sihir
 organ: yaşayan gezegen - toplum
 vücut: galaksi
 insanların dünyası: uzay
+1 insan günü ~= 1 hücre yılı (metobolizma gün içinde tüm değişimlerini yaşıyor)
 1 hücre günü ~= 24 insan saniyesi (kanın vücuttaki dolaşımını tamamlama süresi)
+hücrelerde ay/saat/dakika kavramları yok (henüz)
 
 KİTAP 1:
 ========
@@ -50,15 +52,26 @@ Azze'nin Nogri'yi bulma mücadelesi
 Kullanılan gerçekler:
 ---------------------
 Her saniye 2.4 milyon yeni alyuvar üretilir, bir alyuvar hücresinin ömrü
-100-120 gündür, yaşlı ve işlevini yitirmiş alyuvarlar makrofaglar tarafınan
-geri dönüştürülürler, makrofaglar akyuvarların başkalaşım geçirmiş halidir. Bir
+100-120 gündür, yaşlı ve işlevini yitirmiş alyuvarlar makrofajlar tarafından
+geri dönüştürülürler, makrofajlar akyuvarların başkalaşım geçirmiş halidir. Bir
 alyuvar dolaşım sistemindeki döngüsünü 20 saniyede tamamlar. Alyuvarlar kök
 hücrelerin başkalaşmasıyla oluşur. "eritropoiez" adı verilen bu evre 7 gün
 sürer. [4]
 
-Göbek kordonundan kök hücre alımı doğum sonrasından gerçekleşir.[5]
+Göbek kordonundan kök hücre alımı doğum sonrasında gerçekleşir.[5]
 
 Sezaryan sırasında genel veya bölgesel anestezi uygulanır. [6]
+
+kan hücrelerinin türediği hücre tipi: hematopoietik kök hücre (Hematopoietic
+stem cells - HSCs). bunlar çoklu potansiyeli olan (multipotent) kök hücreler.
+
+kök hücre nakli için 4 kaynak mevcut[5]:
+
+* kemik iliği (ilium tepesi, iliac crest tercih ediliyor)
+* kan dolaşımından alma (bir hormonla kök hücrelerin kana karışması sağlanıyor, aferezle de kök hücrelere ayıklanıyor) 
+* amniyotik sıvıdan
+* göbek bağından
+
 
 Kaynaklar:
 ----------
